@@ -137,6 +137,8 @@ class ViewController: UIViewController {
         
         lineLayer2 .add(animationLine, forKey: "strokeEndAnimation")
         
+        //也可以使用路径动画
+        
     }
 
     override func didReceiveMemoryWarning() {
