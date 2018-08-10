@@ -137,6 +137,7 @@ class ViewController: UIViewController {
         
         lineLayer2 .add(animationLine, forKey: "strokeEndAnimation")
         
+        //test
     }
 
     override func didReceiveMemoryWarning() {
