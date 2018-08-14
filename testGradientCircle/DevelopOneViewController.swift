@@ -12,7 +12,7 @@ class DevelopOneViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        self.title = "develop";
         // Do any additional setup after loading the view.
     }
 
