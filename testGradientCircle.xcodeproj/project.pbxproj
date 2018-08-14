@@ -19,6 +19,8 @@
 		276A6E7D212267AA0004F27A /* DevelopOneViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 276A6E7B212267AA0004F27A /* DevelopOneViewController.xib */; };
 		276A6E802122762C0004F27A /* BaseViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 276A6E7E2122762C0004F27A /* BaseViewController.xib */; };
 		276A6E812122762C0004F27A /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276A6E7F2122762C0004F27A /* BaseViewController.swift */; };
+		276A6E88212278880004F27A /* TestMikeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276A6E86212278880004F27A /* TestMikeViewController.swift */; };
+		276A6E89212278880004F27A /* TestMikeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 276A6E87212278880004F27A /* TestMikeViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +59,8 @@
 		276A6E7B212267AA0004F27A /* DevelopOneViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DevelopOneViewController.xib; sourceTree = "<group>"; };
 		276A6E7E2122762C0004F27A /* BaseViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BaseViewController.xib; sourceTree = "<group>"; };
 		276A6E7F2122762C0004F27A /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		276A6E86212278880004F27A /* TestMikeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestMikeViewController.swift; sourceTree = "<group>"; };
+		276A6E87212278880004F27A /* TestMikeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestMikeViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +118,8 @@
 				276A6E7E2122762C0004F27A /* BaseViewController.xib */,
 				276A6E7A212267AA0004F27A /* DevelopOneViewController.swift */,
 				276A6E7B212267AA0004F27A /* DevelopOneViewController.xib */,
+				276A6E86212278880004F27A /* TestMikeViewController.swift */,
+				276A6E87212278880004F27A /* TestMikeViewController.xib */,
 				27059B9C20D276FC0014A7B7 /* Main.storyboard */,
 				27059B9F20D277060014A7B7 /* Assets.xcassets */,
 				27059BA120D277060014A7B7 /* LaunchScreen.storyboard */,
@@ -244,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				276A6E89212278880004F27A /* TestMikeViewController.xib in Resources */,
 				27059BA320D277060014A7B7 /* LaunchScreen.storyboard in Resources */,
 				276A6E802122762C0004F27A /* BaseViewController.xib in Resources */,
 				276A6E7D212267AA0004F27A /* DevelopOneViewController.xib in Resources */,
@@ -273,6 +280,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				276A6E88212278880004F27A /* TestMikeViewController.swift in Sources */,
 				276A6E812122762C0004F27A /* BaseViewController.swift in Sources */,
 				27059B9B20D276FC0014A7B7 /* ViewController.swift in Sources */,
 				276A6E7C212267AA0004F27A /* DevelopOneViewController.swift in Sources */,
