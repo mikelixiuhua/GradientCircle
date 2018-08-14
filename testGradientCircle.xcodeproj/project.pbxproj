@@ -59,7 +59,6 @@
 		27059BB820D277070014A7B7 /* testGradientCircleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testGradientCircleUITests.swift; sourceTree = "<group>"; };
 		27059BBA20D277070014A7B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2747ADB120D3564E002D3A68 /* NaUIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NaUIColor.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		276A6E7A212267AA0004F27A /* DevelopOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopOneViewController.swift; sourceTree = "<group>"; };
 		276A6E7B212267AA0004F27A /* DevelopOneViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DevelopOneViewController.xib; sourceTree = "<group>"; };
 		276A6E7E2122762C0004F27A /* BaseViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BaseViewController.xib; sourceTree = "<group>"; };
