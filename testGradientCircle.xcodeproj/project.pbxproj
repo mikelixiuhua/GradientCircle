@@ -17,6 +17,8 @@
 		2747ADB220D3564E002D3A68 /* NaUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2747ADB120D3564E002D3A68 /* NaUIColor.swift */; };
 		276A6E78212266DC0004F27A /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276A6E76212266DC0004F27A /* BaseViewController.swift */; };
 		276A6E79212266DC0004F27A /* BaseViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 276A6E77212266DC0004F27A /* BaseViewController.xib */; };
+		276A6E84212277E40004F27A /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276A6E82212277E40004F27A /* Test2ViewController.swift */; };
+		276A6E85212277E40004F27A /* Test2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 276A6E83212277E40004F27A /* Test2ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		2747ADB120D3564E002D3A68 /* NaUIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NaUIColor.swift; sourceTree = "<group>"; };
 		276A6E76212266DC0004F27A /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		276A6E77212266DC0004F27A /* BaseViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = BaseViewController.xib; sourceTree = "<group>"; };
+		276A6E82212277E40004F27A /* Test2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2ViewController.swift; sourceTree = "<group>"; };
+		276A6E83212277E40004F27A /* Test2ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Test2ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +112,8 @@
 				27059B9A20D276FC0014A7B7 /* ViewController.swift */,
 				276A6E76212266DC0004F27A /* BaseViewController.swift */,
 				276A6E77212266DC0004F27A /* BaseViewController.xib */,
+				276A6E82212277E40004F27A /* Test2ViewController.swift */,
+				276A6E83212277E40004F27A /* Test2ViewController.xib */,
 				27059B9C20D276FC0014A7B7 /* Main.storyboard */,
 				27059B9F20D277060014A7B7 /* Assets.xcassets */,
 				27059BA120D277060014A7B7 /* LaunchScreen.storyboard */,
@@ -238,6 +244,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				276A6E85212277E40004F27A /* Test2ViewController.xib in Resources */,
 				27059BA320D277060014A7B7 /* LaunchScreen.storyboard in Resources */,
 				276A6E79212266DC0004F27A /* BaseViewController.xib in Resources */,
 				27059BA020D277060014A7B7 /* Assets.xcassets in Resources */,
@@ -266,6 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				276A6E84212277E40004F27A /* Test2ViewController.swift in Sources */,
 				27059B9B20D276FC0014A7B7 /* ViewController.swift in Sources */,
 				276A6E78212266DC0004F27A /* BaseViewController.swift in Sources */,
 				2747ADB220D3564E002D3A68 /* NaUIColor.swift in Sources */,
