@@ -13,6 +13,7 @@ class BaseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.title = "develop2";
+        NSLog("%d", 123);
         // Do any additional setup after loading the view.
     }
 
