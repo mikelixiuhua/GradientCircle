@@ -15,6 +15,8 @@
 		27059BAE20D277070014A7B7 /* testGradientCircleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27059BAD20D277070014A7B7 /* testGradientCircleTests.swift */; };
 		27059BB920D277070014A7B7 /* testGradientCircleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27059BB820D277070014A7B7 /* testGradientCircleUITests.swift */; };
 		2747ADB220D3564E002D3A68 /* NaUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2747ADB120D3564E002D3A68 /* NaUIColor.swift */; };
+		276A6E7C212267AA0004F27A /* DevelopOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276A6E7A212267AA0004F27A /* DevelopOneViewController.swift */; };
+		276A6E7D212267AA0004F27A /* DevelopOneViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 276A6E7B212267AA0004F27A /* DevelopOneViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		27059BB820D277070014A7B7 /* testGradientCircleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testGradientCircleUITests.swift; sourceTree = "<group>"; };
 		27059BBA20D277070014A7B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2747ADB120D3564E002D3A68 /* NaUIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NaUIColor.swift; sourceTree = "<group>"; };
+		276A6E7A212267AA0004F27A /* DevelopOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevelopOneViewController.swift; sourceTree = "<group>"; };
+		276A6E7B212267AA0004F27A /* DevelopOneViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DevelopOneViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				2747ADB120D3564E002D3A68 /* NaUIColor.swift */,
 				27059B9820D276FC0014A7B7 /* AppDelegate.swift */,
 				27059B9A20D276FC0014A7B7 /* ViewController.swift */,
+				276A6E7A212267AA0004F27A /* DevelopOneViewController.swift */,
+				276A6E7B212267AA0004F27A /* DevelopOneViewController.xib */,
 				27059B9C20D276FC0014A7B7 /* Main.storyboard */,
 				27059B9F20D277060014A7B7 /* Assets.xcassets */,
 				27059BA120D277060014A7B7 /* LaunchScreen.storyboard */,
@@ -233,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27059BA320D277060014A7B7 /* LaunchScreen.storyboard in Resources */,
+				276A6E7D212267AA0004F27A /* DevelopOneViewController.xib in Resources */,
 				27059BA020D277060014A7B7 /* Assets.xcassets in Resources */,
 				27059B9E20D276FC0014A7B7 /* Main.storyboard in Resources */,
 			);
@@ -260,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27059B9B20D276FC0014A7B7 /* ViewController.swift in Sources */,
+				276A6E7C212267AA0004F27A /* DevelopOneViewController.swift in Sources */,
 				2747ADB220D3564E002D3A68 /* NaUIColor.swift in Sources */,
 				27059B9920D276FC0014A7B7 /* AppDelegate.swift in Sources */,
 			);
